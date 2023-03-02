@@ -16,4 +16,4 @@
 ##### preprocessing : 전처리
 ##### modeling1 : 랜덤포레스트 및 선형회귀
 ##### modeling2 : xgboost 및 DNN
-##### ppt : 
+
